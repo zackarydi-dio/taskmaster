@@ -1,9 +1,3 @@
-// ══════════════════════════════════════════════════════════════════
-// FILE:    src/app/layout.js
-// PURPOSE: Root layout — wraps every page in the app.
-//          Sets the HTML shell, document metadata, and global font.
-//          This is a Server Component; it runs on the server only.
-// ══════════════════════════════════════════════════════════════════
 import './globals.css';
 
 export const metadata = {
